@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 200" width="700" height="200">
+
+  <rect width="700" height="200" fill="#0B1726" rx="16" />
+
+  <text x="350" y="30" text-anchor="middle" font-family="'Courier New', monospace" font-size="13" letter-spacing="4" fill="#4A9EC7" opacity="0.6">OBSCURA COLOR PALETTE</text>
+
+  <!-- Swatch 1 - Background -->
+  <rect x="50" y="55" width="100" height="80" rx="8" fill="#0B1726" stroke="#2D6E8F" stroke-width="1" />
+  <text x="100" y="155" text-anchor="middle" font-family="'Courier New', monospace" font-size="11" fill="#7EC8E8">#0B1726</text>
+  <text x="100" y="172" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#2D6E8F">Deep Navy</text>
+
+  <!-- Swatch 2 - Dark Accent -->
+  <rect x="170" y="55" width="100" height="80" rx="8" fill="#162D45" />
+  <text x="220" y="155" text-anchor="middle" font-family="'Courier New', monospace" font-size="11" fill="#7EC8E8">#162D45</text>
+  <text x="220" y="172" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#2D6E8F">Midnight</text>
+
+  <!-- Swatch 3 - Mid Accent -->
+  <rect x="290" y="55" width="100" height="80" rx="8" fill="#2D6E8F" />
+  <text x="340" y="155" text-anchor="middle" font-family="'Courier New', monospace" font-size="11" fill="#7EC8E8">#2D6E8F</text>
+  <text x="340" y="172" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#2D6E8F">Steel Blue</text>
+
+  <!-- Swatch 4 - Primary -->
+  <rect x="410" y="55" width="100" height="80" rx="8" fill="#4A9EC7" />
+  <text x="460" y="155" text-anchor="middle" font-family="'Courier New', monospace" font-size="11" fill="#7EC8E8">#4A9EC7</text>
+  <text x="460" y="172" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#2D6E8F">Primary Blue</text>
+
+  <!-- Swatch 5 - Highlight -->
+  <rect x="530" y="55" width="100" height="80" rx="8" fill="#7EC8E8" />
+  <text x="580" y="155" text-anchor="middle" font-family="'Courier New', monospace" font-size="11" fill="#7EC8E8">#7EC8E8</text>
+  <text x="580" y="172" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#2D6E8F">Ice Blue</text>
+
+</svg>
